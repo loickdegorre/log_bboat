@@ -1,0 +1,1 @@
+Command H | epsx 1 | epsy 1 | wind speed 1.5 | wind angle -1.0471975511965976 
